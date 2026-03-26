@@ -1,7 +1,7 @@
-destinations = ['London', 'Paris', 'Dubai']
+destinations = ['Kenya', 'Paris', 'Dubai']
 
 for city in destinations:
-    if city == "London":
+    if city == "Kenya":
         print(f"Now boarding for: {city}")
 
-print("Hi, This file is chnanged")
+print("This is Katie - Destination changed from London to Kenya")
